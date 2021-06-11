@@ -40,6 +40,7 @@ Identify the cause of unexpected emissions by integrating data and deploying a m
 ## Result
 - Pollution fines are reduced by 10% by identifying process parameters and operating conditions that lead to emission. Provided correlation and upper limits of process parameters.
 - Code: Github:https://git.io/JYoE0
+- Slides:[Slide link](https://github.com/yungchidanielcho/Portfolio/blob/main/Reducing%20Sulfur%20dioxide%20emission%20of%20a%20pulp%20mill%20using%20data%20mining%20algorithms.pdf)
 # Apple Stock Price Prediction using Spark
 - Two weeks graduate course project. Using 10k rows and six columns daily, apple stock prices
 - Predicted next week's price within 2% SMAPE error using decision trees and random forest models from seasonality and moving average features in Scala. 
